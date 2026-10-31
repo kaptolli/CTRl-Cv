@@ -1,0 +1,25 @@
+{
+  "background_color": "#192c4a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ctrl C+V",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Ctrl CV",
+  "start_url": "/",
+  "theme_color": "#141c28",
+  "id": "com.KaPatolla.CtrlCv",
+  "description": "Ctrl CV - My first real program",
+  "lang": "ru",
+  "categories": [
+    "photo & video"
+  ],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
